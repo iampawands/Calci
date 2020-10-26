@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 20 02:58:47 2019
-@author: ManishChalana
-"""
+
 
 import numpy as np
 import collections
